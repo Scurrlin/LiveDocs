@@ -76,7 +76,7 @@ const GenerateThumbnail = ({ setImage, setImageStorageId, image, imagePrompt, se
 
   return (
     <>
-      <div className="generate_thumbnail">
+      <div className="generate_thumbnail text-white-1">
         <Button
           type="button"
           variant="plain"
