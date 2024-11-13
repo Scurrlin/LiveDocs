@@ -6,6 +6,6 @@
 * NextJS
 * TypeScript
 * Tailwind CSS
-* Liveblocks
+* Liveblocks.io
 * Sentry
 * Clerk
