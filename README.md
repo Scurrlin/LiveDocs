@@ -1,5 +1,5 @@
 # LiveDocs
-A collaborative document editor similar to Google Docs. Built with NextJS, TypeScript, Tailwind CSS, Liveblocks.io, Sentry, and Clerk.
+A collaborative document editor similar to Google Docs.
 
 ![banner_image](public/assets/images/livedocs.jpg)
 
